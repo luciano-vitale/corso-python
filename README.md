@@ -17,4 +17,4 @@ Nessuna conoscenza pregressa è richiesta.
 ## Lezioni successive (work in progress)
 
 ---
-> _“Talk is cheap. Show me the code.”_ — Linus Torvalds
+_“Talk is cheap. Show me the code.”_ — Linus Torvalds
