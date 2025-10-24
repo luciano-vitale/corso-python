@@ -6,6 +6,8 @@ Questo progetto raccoglie il materiale didattico, gli esempi e gli esercizi dell
 ---
 
 ## Lezione 1 – I fondamenti della programmazione in Python
+## Lezione 2 – Literals (Letterali)
+## Lezione 3 – Operatori
 ## Lezioni successive (work in progress)
 
 ---
