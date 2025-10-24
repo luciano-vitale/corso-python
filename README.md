@@ -16,11 +16,7 @@ Questo progetto raccoglie il materiale didattico, gli esempi e gli esercizi dell
 - Saper scrivere, leggere e modificare codice in modo chiaro e corretto  
 - Imparare a risolvere problemi con un approccio algoritmico  
 
----
-
 ## Prerequisiti
 Nessuna conoscenza pregressa è richiesta.
-
----
 
 > _“Talk is cheap. Show me the code.”_ — Linus Torvalds
