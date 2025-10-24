@@ -1,15 +1,6 @@
 # Corso di programmazione in Python
-
 Benvenuto/a nel repository del **Corso di Python**!  
 Questo progetto raccoglie il materiale didattico, gli esempi e gli esercizi delle lezioni dedicate all'apprendimento del linguaggio Python, con un approccio pratico e graduale.
-
----
-
-## Lezione 1 – I fondamenti della programmazione in Python
-## Lezione 2 – Literals (Letterali)
-## Lezioni successive (work in progress)
-
----
 
 ## Obiettivi del corso
 - Comprendere i concetti fondamentali della programmazione con Python  
@@ -19,4 +10,11 @@ Questo progetto raccoglie il materiale didattico, gli esempi e gli esercizi dell
 ## Prerequisiti
 Nessuna conoscenza pregressa è richiesta.
 
+---
+
+## Lezione 1 – I fondamenti della programmazione in Python
+## Lezione 2 – Literals (Letterali)
+## Lezioni successive (work in progress)
+
+---
 > _“Talk is cheap. Show me the code.”_ — Linus Torvalds
