@@ -15,6 +15,7 @@ Nessuna conoscenza pregressa è richiesta.
 ## Lezione 1 – I fondamenti della programmazione in Python
 ## Lezione 2 – Literals (Letterali)
 ## Lezione 3 – Operatori
+## Lezione 4 – Variabili, Costanti e Dynamic Typing
 ## Lezioni successive (work in progress)
 
 ---
