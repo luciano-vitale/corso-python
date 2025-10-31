@@ -16,6 +16,7 @@ Nessuna conoscenza pregressa è richiesta.
 ## Lezione 2 – Literals (Letterali)
 ## Lezione 3 – Operatori
 ## Lezione 4 – Variabili, Costanti e Dynamic Typing
+## Lezione 5 – Selezione
 ## Lezioni successive (work in progress)
 
 ---
