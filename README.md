@@ -17,6 +17,7 @@ Nessuna conoscenza pregressa è richiesta.
 ## Lezione 3 – Operatori
 ## Lezione 4 – Variabili, Costanti e Dynamic Typing
 ## Lezione 5 – Selezione
+## Lezione 6 – I cicli in Python
 ## Lezioni successive (work in progress)
 
 ---
