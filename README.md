@@ -24,3 +24,7 @@ Nessuna conoscenza pregressa è richiesta.
 
 ---
 _“Talk is cheap. Show me the code.”_ — Linus Torvalds
+
+## Licenza
+* **Codice Python**: [Licenza MIT](LICENSE.md#1-codice-sorgente-mit-license)
+* **Materiale Didattico e Testi**: [CC BY 4.0](LICENSE.md#2-contenuti-didattici-e-testi-cc-by-40)
