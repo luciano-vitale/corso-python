@@ -20,7 +20,7 @@ Nessuna conoscenza pregressa è richiesta.
 ## Lezione 6 – I cicli in Python
 ## Lezione 7 – Operatori logici e Bit a Bit
 ## Lezione 8 – Liste
-## Lezioni successive in arrivo...
+## Lezioni 9 – In arrivo...
 
 ---
 _“Talk is cheap. Show me the code.”_ — Linus Torvalds
